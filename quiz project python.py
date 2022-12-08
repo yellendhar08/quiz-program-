@@ -134,4 +134,4 @@ if __name__ == "__main__":
 		elif choice == 8:
 			about()
 		else:
-			print('WRONG INPUT. ENTER THE CHOICE AGAIN')
+			print('WRONG INPUT. ENTER YOUR CHOICE AGAIN')
